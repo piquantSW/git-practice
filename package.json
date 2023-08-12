@@ -1,0 +1,9 @@
+{
+  "name": "Sangwoo",
+  "version": "1.22.19",
+  "description": "yarn",
+  "main": "index.js",
+  "repository": "josw1992@naver.com",
+  "author": "piquant <josw1992@gmail.com>",
+  "license": "MIT"
+}
